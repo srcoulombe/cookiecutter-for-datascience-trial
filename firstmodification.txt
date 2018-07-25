@@ -1,1 +1,3 @@
 This is my first modification/addition to the repo.
+When I pull the github repo, this file (which wasn't previously on this laptop) is downloaded in the correct place.
+I wrote this line and the previous line on my laptop (so that it is an addition to the firstmodification.txt file on the github repo) and will then push the file (actually the entire repo) to the github repo using git push.
